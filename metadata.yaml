@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9068'
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: archival
+  image_path: 60562-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mayhew, Henry
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '51020'
     url: http://www.gutenberg.org/2009/agents/51020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60562#The-greatest-plague-of-life-or-The-Adventures-of-a-Lady-in-search-of-a-good-servant
 gutenberg_issued: '2019-10-23'
 gutenberg_type: Text
 identifiers:
